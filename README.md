@@ -1,4 +1,4 @@
-#  Hello there! 👋 
+#  Hello There! 👋 
 Currently immersed in the world of coding. 🚀 Check out what I'm building below! 👇💻
 
 <!--
