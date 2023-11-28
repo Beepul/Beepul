@@ -1,6 +1,5 @@
 #  Hello there! 👋 
-##  Currently immersed in the world of coding. 🚀 
-##  Check out what I'm building below! 👇💻
+Currently immersed in the world of coding. 🚀 Check out what I'm building below! 👇💻
 
 <!--
 **Beepul/Beepul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
