@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **react, express, next js, mongodb, node js**
+- 💬 Ask me about **javascript, react, express, next js, mongodb, typescript**
 
 - 📫 How to reach me [📨](mailto:beepulmagar@gmail.com)
 
