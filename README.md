@@ -9,8 +9,6 @@
 
 - 📫 How to reach me [📨](mailto:beepulmagar@gmail.com)
 
-- ⚡ Fun fact **i spend almost 12 hours writing code everyday.**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
